@@ -1,0 +1,32 @@
+.center {
+  text-align: center;
+}
+
+.cake-image {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: auto;
+}
+
+.input-date {
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.submit-button {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fbb3c2;
+  color: #9a4059;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
